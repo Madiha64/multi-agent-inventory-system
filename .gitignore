@@ -1,0 +1,5 @@
+__pycache__/ 
+*.pyc 
+.env 
+data/alert_history.csv 
+.streamlit/ 
