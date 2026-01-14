@@ -50,3 +50,25 @@ A production-style AI agent system for inventory risk monitoring, demand forecas
 ### 1️⃣ Start the FastAPI backend
 ```bash
 uvicorn api.main:app --reload
+
+---
+
+## 📸 Dashboard Screenshots
+
+### Inventory Risk Analysis
+![Risk Analysis](screenshots/Risk_analysis.png)
+
+### Demand Forecasting View
+![Demand Forecast](screenshots/risk_Demand_forecast.png)
+
+### Reorder Recommendation
+![Reorder Recommendation](screenshots/Reorder_recommandation_view.png)
+
+---
+
+## ⚙️ How to Run the Project
+
+### 1️⃣ Start FastAPI Backend
+```bash
+uvicorn api.main:app --reload
+
